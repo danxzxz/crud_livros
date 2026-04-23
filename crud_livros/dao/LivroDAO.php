@@ -1,7 +1,7 @@
 <?php
 
 require_once(__DIR__ . "/../util/Connection.php");
-require_once(__DIR__ . "/../model/livro.php");
+require_once(__DIR__ . "/../model/Livro.php");
 require_once(__DIR__ . "/../model/Genero.php");
 require_once(__DIR__ . "/../model/Idioma.php");
 
